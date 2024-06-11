@@ -1709,6 +1709,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+    <a href="https://github.com/SiomaiRc">
+        <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+        <br />
+        <sub><b>Harvz/John</b></sub>
+    </a>
+</td>
+ <td align="center">
+    <a href="https://github.com/SiomaiRc">
+        <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <br />
+        <sub><b>Harvz/John</b>
+    </a>
+</td>
         </tr>
     </tbody>
 </table>
